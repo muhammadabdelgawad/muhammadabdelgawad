@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abd-Elgawad</h1>
-<h3 align="center">A passionate .Net Developer from Egypt</h3>
+<h3 align="center">A passionate Backend Developer from Egypt</h3>
+
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **ASP.NET Core**
 
