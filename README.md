@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Abd-Elgawad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Software%20Engineer%20|%20.NET%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=060B14,060B20&height=180&section=header&text=Muhammad%20Abd-Elgawad&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Backend%20Software%20Engineer%20|%20ASP.NET%20Core%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 <!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-abd-elgawad-403a31240" target="_blank">
