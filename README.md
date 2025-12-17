@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 💼 Professional Summary
+# 💼 Professional Summary
 
 </div>
 
