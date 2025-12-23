@@ -23,9 +23,9 @@
 
 </div>
 
-#### Backend Software Engineer specializing in **ASP.NET Core** and **C#**
-#### Have a strong focus on building **scalable**, **maintainable**, and **high-performance** applications.
-#### Experienced in implementing **Clean , Onion Architecture**, designing **RESTful APIs**, and following **SOLID principles** and **best practices**.
+### Backend Software Engineer specializing in **ASP.NET Core** and **C#**
+### Have a strong focus on building **scalable**, **maintainable**, and **high-performance** applications.
+### Experienced in implementing **Clean , Onion Architecture**, designing **RESTful APIs**, and following **SOLID principles** and **best practices**.
 
 ---
 ## 🛠️ Languages and Tools
