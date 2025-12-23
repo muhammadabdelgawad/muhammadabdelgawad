@@ -47,8 +47,7 @@
 
 ## 📫 Get in Touch
 
-<p>
-I'm always interested in hearing about new opportunities, collaborating on exciting projects,
+<p> I'm always interested in hearing about new opportunities, collaborating on exciting projects,
 <br>or just having a conversation about technology and software development!
 </p>
 
